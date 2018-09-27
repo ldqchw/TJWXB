@@ -1,0 +1,827 @@
+1537183318637	geckodriver	INFO	geckodriver 0.21.0
+1537183318664	geckodriver	INFO	Listening on 127.0.0.1:50463
+1537183321660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.ll4DyLAuQRbu"
+1537183326040	Marionette	INFO	Listening on port 50475
+1537183326201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1537183326231	Marionette	DEBUG	[6442450945] Frame script loaded
+1537183326232	Marionette	DEBUG	[6442450945] Frame script registered
+1537183329775	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1537183330076	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1537183330100	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tj-summerdavos.cn/
+1537183330336	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tj-summerdavos.cn/
+1537183330736	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tj-summerdavos.cn/
+1537183330879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tj-summerdavos.cn/
+JavaScript warning: http://www.enorth.com.cn/sys/share/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537183331908	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.enorth.com.cn/
+1537183331984	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.enorth.com.cn/
+1537183332295	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.enorth.com.cn/
+1537183332333	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.enorth.com.cn/
+JavaScript warning: http://www.dongjiang.gov.cn/html/TCJ/js/jquery-1.4a2.min.js, line 30: unreachable code after return statement
+1537183332741	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.dongjiang.gov.cn/html/TCJ/portal/index/index.htm
+1537183332824	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.dongjiang.gov.cn/html/TCJ/portal/index/index.htm
+1537183333039	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.dongjiang.gov.cn/html/TCJ/portal/index/index.htm
+1537183333418	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.dongjiang.gov.cn/html/TCJ/portal/index/index.htm
+JavaScript warning: https://www.dangjianwang.com/script/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537183334143	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.dangjianwang.com/
+1537183337003	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.dangjianwang.com/
+1537183337307	Marionette	INFO	Stopped listening on port 50475
+[Child 4348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 434[Child 7316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7316, Chrome_ChildThread] WARNING[Parent 10336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 2116, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nnel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 8424, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9624, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+re)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 6092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 6092, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ehide for http://www.newteda.com/
+1537157782245	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.newteda.com/
+JavaScript warning: http://www.dongjiang.gov.cn/html/TCJ/js/jquery-1.4a2.min.js, line 30: unreachable code after return statement
+1537157782645	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.dongjiang.gov.cn/html/TCJ/portal/index/index.htm
+1537157782829	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.dongjiang.gov.cn/html/TCJ/portal/index/index.htm
+1537157783032	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.dongjiang.gov.cn/html/TCJ/portal/index/index.htm
+1537157783058	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.dongjiang.gov.cn/html/TCJ/portal/index/index.htm
+JavaScript error: http://teda.gov.cn/, line 1024: TypeError: $(...).on is not a function
+1537157783407	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://teda.gov.cn/
+1537157784395	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://teda.gov.cn/
+1537157784686	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://teda.gov.cn/
+1537157784782	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://teda.gov.cn/
+1537157785361	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tedaonline.com/
+1537157785951	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tedaonline.com/
+1537157786261	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tedaonline.com/
+1537157786854	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tedaonline.com/
+JavaScript warning: http://static.websiteonline.cn/website/script/??jquery-1.6.4.js,jquery.custom.js,jquery.lazyload.js,jquery.rotateutility.js,lab.js,wopop_all.js,jquery.cookie.js,jquery.simplemodal.js,fullcollumn.js,objectFitPolyfill.min.js,ierotate.js,effects/velocity.js,effects/velocity.ui.js,effects/effects.js,fullpagescroll.js,common.js,heightAdapt.js?v=15353350, line 37: unreachable code after return statement
+JavaScript warning: http://static.websiteonline.cn/website/script/??jquery-1.6.4.js,jquery.custom.js,jquery.lazyload.js,jquery.rotateutility.js,lab.js,wopop_all.js,jquery.cookie.js,jquery.simplemodal.js,fullcollumn.js,objectFitPolyfill.min.js,ierotate.js,effects/velocity.js,effects/velocity.ui.js,effects/effects.js,fullpagescroll.js,common.js,heightAdapt.js?v=15353350, line 37: unreachable code after return statement
+JavaScript warning: http://static.websiteonline.cn/website/script/??jquery-1.6.4.js,jquery.custom.js,jquery.lazyload.js,jquery.rotateutility.js,lab.js,wopop_all.js,jquery.cookie.js,jquery.simplemodal.js,fullcollumn.js,objectFitPolyfill.min.js,ierotate.js,effects/velocity.js,effects/velocity.ui.js,effects/effects.js,fullpagescroll.js,common.js,heightAdapt.js?v=15353350, line 37: unreachable code after return statement
+JavaScript warning: http://static.websiteonline.cn/website/script/??jquery-1.6.4.js,jquery.custom.js,jquery.lazyload.js,jquery.rotateutility.js,lab.js,wopop_all.js,jquery.cookie.js,jquery.simplemodal.js,fullcollumn.js,objectFitPolyfill.min.js,ierotate.js,effects/velocity.js,effects/velocity.ui.js,effects/effects.js,fullpagescroll.js,common.js,heightAdapt.js?v=15353350, line 37: unreachable code after return statement
+JavaScript warning: http://static.websiteonline.cn/website/script/??jquery-1.6.4.js,jquery.custom.js,jquery.lazyload.js,jquery.rotateutility.js,lab.js,wopop_all.js,jquery.cookie.js,jquery.simplemodal.js,fullcollumn.js,objectFitPolyfill.min.js,ierotate.js,effects/velocity.js,effects/velocity.ui.js,effects/effects.js,fullpagescroll.js,common.js,heightAdapt.js?v=15353350, line 37: unreachable code after return statement
+JavaScript warning: http://static.websiteonline.cn/website/script/??jquery-1.6.4.js,jquery.custom.js,jquery.lazyload.js,jquery.rotateutility.js,lab.js,wopop_all.js,jquery.cookie.js,jquery.simplemodal.js,fullcollumn.js,objectFitPolyfill.min.js,ierotate.js,effects/velocity.js,effects/velocity.ui.js,effects/effects.js,fullpagescroll.js,common.js,heightAdapt.js?v=15353350, line 37: unreachable code after return statement
+1537157787913	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tedanota.gov.cn/
+1537157789136	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tedanota.gov.cn/
+1537157789243	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tedanota.gov.cn/
+1537157789566	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tedanota.gov.cn/
+1537157790047	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tradeteda.org/Home/Home
+1537157790415	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tradeteda.org/Home/Home
+1537157790572	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tradeteda.org/Home/Home
+1537157790629	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tradeteda.org/Home/Home
+JavaScript warning: http://www.bh.gov.cn/sitefiles/bairong/jquery/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537157791138	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.bh.gov.cn/gzw/
+1537157791222	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.bh.gov.cn/gzw/
+1537157791397	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.bh.gov.cn/gzw/
+1537157791452	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.bh.gov.cn/gzw/
+1537157792110	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjec.gov.cn/
+1537157792283	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjec.gov.cn/
+1537157792544	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjec.gov.cn/
+1537157792586	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjec.gov.cn/
+1537157792587	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjec.gov.cn/
+1537157792592	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.bh.gov.cn/html/SWW/portal/index/index.htm
+1537157792611	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1537157792614	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.bh.gov.cn/html/SWW/portal/index/index.htm
+1537157792659	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.bh.gov.cn/html/SWW/portal/index/index.htm
+1537157792715	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.bh.gov.cn/html/SWW/portal/index/index.htm
+JavaScript warning: http://zxqy.tj.gov.cn/html/js/jquery.min.js?v1.10.2, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537157793030	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://zxqy.tj.gov.cn/
+1537157793232	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://zxqy.tj.gov.cn/
+1537157793515	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://zxqy.tj.gov.cn/
+1537157793541	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://zxqy.tj.gov.cn/
+1537157793541	Marionette	DEBUG	[6442450945] Received DOM event unload for http://zxqy.tj.gov.cn/
+1537157793548	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cbhb.com.cn/
+1537157793574	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cbhb.com.cn/
+1537157793574	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cbhb.com.cn/
+1537157793599	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cbhb.com.cn/
+1537157793655	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cbhb.com.cn/
+1537157793656	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.cbhb.com.cn/
+1537157794438	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.opzoon.com/index.html
+1537157800267	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.opzoon.com/index.html
+1537157800533	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.opzoon.com/index.html
+1537157800706	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.opzoon.com/index.html
+1537157800707	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.opzoon.com/index.html
+1537157802189	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjhousing.com/
+1537157809463	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjhousing.com/
+1537157809817	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjhousing.com/
+1537157809899	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjhousing.com/
+1537157810023	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.binhaigroup.com/
+1537157810465	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.binhaigroup.com/
+1537157810545	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.binhaigroup.com/
+1537157810605	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.binhaigroup.com/
+1537157810631	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.markor.com.cn/
+1537157816762	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.markor.com.cn/
+1537157817008	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.markor.com.cn/
+1537157817857	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.markor.com.cn/
+1537157817857	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.markor.com.cn/
+1537157818047	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.bhqgtz.com/
+1537157822687	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.bhqgtz.com/
+1537157822964	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.bhqgtz.com/
+1537157823023	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.bhqgtz.com/
+1537157823523	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tedagroup.com.cn/
+JavaScript warning: http://www.tedagroup.com.cn/js/jquery-1.4.2.js, line 3686: unreachable code after return statement
+1537157826711	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tedagroup.com.cn/
+1537157827036	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tedagroup.com.cn/
+1537157827083	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tedagroup.com.cn/
+1537157827460	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.pharm.com.cn/
+1537157828278	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.pharm.com.cn/
+1537157828482	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.pharm.com.cn/
+1537157828513	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.pharm.com.cn/
+1537157828540	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tedacg.com/
+1537157828549	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tedacg.com/
+1537157828551	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tedacg.com/
+1537157828638	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tedacg.com/html/TDJS/portal/index/index.htm
+1537157858921	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tedacg.com/html/TDJS/portal/index/index.htm
+1537157858922	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tedacg.com/html/TDJS/portal/index/index.htm
+JavaScript warning: http://www.dajiankang.com/js/jquery.js, line 19: unreachable code after return statement
+1537157859736	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.dajiankang.com/?aspxerrorpath=/default.aspx
+1537157861785	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.dajiankang.com/?aspxerrorpath=/default.aspx
+1537157862004	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.dajiankang.com/?aspxerrorpath=/default.aspx
+1537157862058	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.dajiankang.com/?aspxerrorpath=/default.aspx
+1537157862059	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.dajiankang.com/?aspxerrorpath=/default.aspx
+1537157862257	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.rockcheck.com/
+1537157862296	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450992
+1537157862309	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450985
+1537157862539	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.rockcheck.com/
+1537157862815	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.rockcheck.com/
+1537157862988	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.rockcheck.com/
+1537157862989	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.rockcheck.com/
+1537157862996	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjsemi.com/
+1537157862999	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjsemi.com/
+1537157863015	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjsemi.com/
+1537157864100	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjsemi.com/
+1537157864752	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tjsemi.com/
+JavaScript error: https://www.tjsemi.com/sinastock.html, line 40: ReferenceError: hq_str_s_sz002129 is not defined
+1537157866756	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tjsemi.com/
+1537157866933	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tjsemi.com/
+1537157867349	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tjsemi.com/
+JavaScript error: http://www.tj-chengtou.com/images/h.htm, line 1: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+1537157867992	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tj-chengtou.com/
+JavaScript error: http://www.tj-chengtou.com/js/jquery_007.js, line 14: TypeError: _tempStyle[i].toLowerCase is not a function
+JavaScript error: http://www.tj-chengtou.com/js/jquery_007.js, line 14: TypeError: _tempStyle[i].toLowerCase is not a function
+1537157875090	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tj-chengtou.com/
+1537157875592	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tj-chengtou.com/
+1537157875634	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tj-chengtou.com/
+1537157875635	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tj-chengtou.com/
+JavaScript error: http://www.htw.com.cn/plugin/tongji/stat.aspx?style=icon&referer=&screenwidth=1366, line 1: SyntaxError: expected expression, got '<'
+1537157875959	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.htw.com.cn/
+1537157876893	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.htw.com.cn/
+1537157876981	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.htw.com.cn/
+1537157877049	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.htw.com.cn/
+1537157877055	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ptacn.com/
+1537157877061	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ptacn.com/
+1537157877124	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.ptacn.com/
+1537157877178	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.ptacn.com/
+1537157877182	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.ptacn.com/
+1537157877194	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tewoo.com/
+1537157877195	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tewoo.com/
+1537157877207	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tewoo.com/
+1537157877210	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450998
+1537157877915	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tewoo.com/
+1537157878640	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tewoo.com/main/Default.aspx
+1537157880842	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tewoo.com/main/Default.aspx
+1537157880961	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tewoo.com/main/Default.aspx
+1537157880987	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tewoo.com/main/Default.aspx
+1537157880995	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.benefo.cn/
+1537157881038	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.benefo.cn/
+1537157881222	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.benefo.cn/
+1537157881296	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.benefo.cn/
+1537157881600	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://troila.com/
+1537157881761	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://troila.com/
+1537157882004	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://troila.com/
+1537157882076	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://troila.com/
+1537157882077	Marionette	DEBUG	[6442450945] Received DOM event unload for http://troila.com/
+1537157882088	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjny.com.cn/
+1537157882116	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjny.com.cn/
+1537157882117	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjny.com.cn/
+1537157882162	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjny.com.cn/
+1537157882217	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjny.com.cn/
+1537157882219	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjny.com.cn/
+1537157882845	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.jbdc.com.cn/
+1537157883541	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.jbdc.com.cn/
+1537157883832	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.jbdc.com.cn/
+1537157884073	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.jbdc.com.cn/
+1537157884074	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.jbdc.com.cn/
+1537157884789	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjhi-tech.com/
+1537157889344	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjhi-tech.com/
+1537157890147	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjhi-tech.com/
+1537157890470	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjhi-tech.com/
+1537157890859	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tj8890.gov.cn/
+1537157892394	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tj8890.gov.cn/
+1537157892667	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tj8890.gov.cn/
+1537157892755	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tj8890.gov.cn/
+1537157893209	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjca.gov.cn/
+1537157893261	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjca.gov.cn/
+1537157893463	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjca.gov.cn/
+1537157893494	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjca.gov.cn/
+1537157893733	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjgaj.gov.cn/
+1537157893734	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjgaj.gov.cn/
+1537157893740	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjgaj.gov.cn/
+1537157893775	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjgaj.gov.cn/
+1537157893786	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjgaj.gov.cn/
+1537157893787	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjgaj.gov.cn/
+1537157893792	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjgaj.gov.cn/
+1537157893828	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjgaj.gov.cn/
+JavaScript warning: http://www.tjgaj.gov.cn/site/Scripts/jhelper_2.0.js, line 68: unreachable code after return statement
+JavaScript warning: http://www.tjgaj.gov.cn/site/Scripts/jquery-1.4.1.js, line 3612: unreachable code after return statement
+JavaScript warning: http://www.tjgaj.gov.cn/site/Scripts/jquery-1.4.1.js, line 3612: unreachable code after return statement
+1537157894239	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjgaj.gov.cn/site/
+JavaScript warning: http://www.tjgaj.gov.cn/site/Scripts/jquery-1.4.1-vsdoc.js, line 4579: unreachable code after return statement
+JavaScript warning: http://www.tjgaj.gov.cn/site/Scripts/jquery-1.4.1-vsdoc.js, line 4579: unreachable code after return statement
+JavaScript warning: http://www.tjgaj.gov.cn/site/Scripts/jquery-1.4.1.js, line 3612: unreachable code after return statement
+JavaScript warning: http://www.tjgaj.gov.cn/site/Scripts/jquery-1.4.1-vsdoc.js, line 4579: unreachable code after return statement
+JavaScript error: http://www.tjgaj.gov.cn/site/, line 1: ReferenceError: showpoint2 is not defined
+1537157897704	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjgaj.gov.cn/site/
+1537157897941	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjgaj.gov.cn/site/
+1537157899391	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjgaj.gov.cn/site/
+1537157899391	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjgaj.gov.cn/site/
+JavaScript warning: http://60.28.61.198/Js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537157903686	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451015
+1537157903686	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451020
+1537157903688	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451016
+1537157903688	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451017
+1537157903691	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://60.28.61.198/Page/Index.aspx
+1537157912258	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://60.28.61.198/Page/Index.aspx
+1537157912432	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://60.28.61.198/Page/Index.aspx
+1537157912540	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://60.28.61.198/Page/Index.aspx
+1537157912671	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://tj.122.gov.cn/
+1537157914317	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://tj.122.gov.cn/
+1537157914437	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://tj.122.gov.cn/
+1537157915006	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://tj.122.gov.cn/
+1537157915010	Marionette	DEBUG	[6442450945] Received DOM event unload for http://tj.122.gov.cn/
+1537157915405	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.tjrc.gov.cn/Index.aspx
+1537157917558	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.tjrc.gov.cn/Index.aspx
+1537157917842	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.tjrc.gov.cn/Index.aspx
+1537157917874	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.tjrc.gov.cn/Index.aspx
+1537157918444	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tianjindangjian.gov.cn/
+1537157920651	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tianjindangjian.gov.cn/
+1537157920980	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tianjindangjian.gov.cn/
+1537157921107	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tianjindangjian.gov.cn/
+1537157921110	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tianjindangjian.gov.cn/
+1537157921691	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjcaw.gov.cn/
+1537157923702	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjcaw.gov.cn/
+1537157924034	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjcaw.gov.cn/
+1537157937363	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjcaw.gov.cn/
+1537157937365	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjcaw.gov.cn/
+1537157937511	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451028
+1537157937512	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451029
+1537157937704	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjfao.gov.cn/
+1537157938096	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjfao.gov.cn/
+1537157938272	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjfao.gov.cn/
+1537157938310	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjfao.gov.cn/
+1537157938311	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjfao.gov.cn/
+JavaScript warning: http://hzjl.tj.gov.cn/script/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537157938633	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://hzjl.tj.gov.cn/
+JavaScript warning: http://tianqi.eastday.com/jscss/v26/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537157941877	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://hzjl.tj.gov.cn/
+1537157942054	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://hzjl.tj.gov.cn/
+1537157942073	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://hzjl.tj.gov.cn/
+1537157942074	Marionette	DEBUG	[6442450945] Received DOM event unload for http://hzjl.tj.gov.cn/
+1537157942793	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451036
+1537157942794	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451037
+1537157942794	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451038
+1537157943024	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjzzb.gov.cn/
+1537157943196	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjzzb.gov.cn/
+1537157943453	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjzzb.gov.cn/
+1537157946331	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjzzb.gov.cn/
+1537157946331	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjzzb.gov.cn/
+1537157946646	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451043
+1537157947019	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://jtys.tj.gov.cn/Page/index.aspx
+1537157950123	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://jtys.tj.gov.cn/Page/index.aspx
+1537157950368	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://jtys.tj.gov.cn/Page/index.aspx
+1537157950404	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://jtys.tj.gov.cn/Page/index.aspx
+1537157950405	Marionette	DEBUG	[6442450945] Received DOM event unload for http://jtys.tj.gov.cn/Page/index.aspx
+1537157950748	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451046
+1537157951069	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjiic.gov.cn/
+1537157951195	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjiic.gov.cn/
+1537157951461	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjiic.gov.cn/
+1537157951567	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjiic.gov.cn/
+1537157951567	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjiic.gov.cn/
+1537157951987	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://sww.tj.gov.cn/
+1537157952235	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://sww.tj.gov.cn/
+1537157952440	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://sww.tj.gov.cn/
+1537157954242	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://sww.tj.gov.cn/
+1537157954243	Marionette	DEBUG	[6442450945] Received DOM event unload for http://sww.tj.gov.cn/
+JavaScript warning: https://www.dangjianwang.com/script/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537157954789	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.dangjianwang.com/
+1537157957451	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.dangjianwang.com/
+1537157957776	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.dangjianwang.com/
+1537157957854	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.dangjianwang.com/
+1537157957855	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.dangjianwang.com/
+1537157959627	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tsi.gov.cn/
+1537157960307	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tsi.gov.cn/
+1537157960449	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tsi.gov.cn/
+1537157960646	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tsi.gov.cn/
+1537157962584	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjfic.com/
+JavaScript error: http://www.tjfic.com/, line 219: TypeError: $(...) is null
+1537157974104	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjfic.com/
+1537157974288	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjfic.com/
+1537157974326	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjfic.com/
+1537157974327	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjfic.com/
+JavaScript warning: http://www.jjhz-tj.gov.cn/script/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537157974538	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.jjhz-tj.gov.cn/contents/75/65433.html
+1537157974598	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451054
+JavaScript warning: http://tianqi.eastday.com/jscss/v26/js/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.jjhz-tj.gov.cn/script/teamworktab.js, line 15: TypeError: oParent is null
+1537157974772	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.jjhz-tj.gov.cn/contents/75/65433.html
+1537157974884	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.jjhz-tj.gov.cn/contents/75/65433.html
+1537157975130	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.jjhz-tj.gov.cn/contents/75/65433.html
+1537157975131	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.jjhz-tj.gov.cn/contents/75/65433.html
+1537157975436	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451056
+1537157975488	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjjw.gov.cn/
+1537157976453	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjjw.gov.cn/
+1537157976642	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjjw.gov.cn/
+1537157976698	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjjw.gov.cn/
+1537157976698	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjjw.gov.cn/
+JavaScript warning: http://kxjs.tj.gov.cn/, line 357: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 358: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 364: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 365: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 371: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 372: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 378: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 379: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 385: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 386: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 392: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 393: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 405: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 406: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 412: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 413: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 419: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 420: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 426: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 427: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 433: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 434: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 440: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 441: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 453: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 454: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 460: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 461: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 467: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 468: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 474: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 475: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 481: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 482: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 488: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 489: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 500: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 501: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 507: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 508: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 514: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 515: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 521: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 522: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 528: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 529: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 535: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 536: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 574: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 575: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 579: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 580: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 584: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 585: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 589: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 590: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 594: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 595: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 599: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 600: ReferenceError: showNewsImg is not defined
+JavaScript error: http://kxjs.tj.gov.cn/, line 25: TypeError: list is null
+JavaScript warning: http://kxjs.tj.gov.cn/, line 726: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 727: ReferenceError: showNewsImg is not defined
+JavaScript error: http://kxjs.tj.gov.cn/, line 733: ReferenceError: showNewsImg is not defined
+JavaScript error: http://kxjs.tj.gov.cn/, line 739: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 744: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 745: ReferenceError: showNewsImg is not defined
+JavaScript error: http://kxjs.tj.gov.cn/, line 751: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 773: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 774: ReferenceError: showNewsImg is not defined
+JavaScript error: http://kxjs.tj.gov.cn/, line 780: ReferenceError: showNewsImg is not defined
+JavaScript error: http://kxjs.tj.gov.cn/, line 786: ReferenceError: showNewsImg is not defined
+JavaScript error: http://kxjs.tj.gov.cn/, line 792: ReferenceError: showNewsImg is not defined
+JavaScript error: http://kxjs.tj.gov.cn/, line 798: ReferenceError: showNewsImg is not defined
+JavaScript error: http://kxjs.tj.gov.cn/, line 814: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 827: SyntaxError: 09 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 828: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 832: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 833: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 837: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 838: ReferenceError: showNewsImg is not defined
+JavaScript warning: http://kxjs.tj.gov.cn/, line 842: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: http://kxjs.tj.gov.cn/, line 843: ReferenceError: showNewsImg is not defined
+1537157977066	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://kxjs.tj.gov.cn/
+1537157977123	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://kxjs.tj.gov.cn/
+1537157977340	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://kxjs.tj.gov.cn/
+1537157977403	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://kxjs.tj.gov.cn/
+1537157977404	Marionette	DEBUG	[6442450945] Received DOM event unload for http://kxjs.tj.gov.cn/
+1537157977415	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://kafw.tj.gov.cn/index.html
+1537157977416	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://kafw.tj.gov.cn/index.html
+1537157977433	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://kafw.tj.gov.cn/index.html
+1537157977553	Marionette	DEBUG	[6442450945] Received DOM event unload for http://kafw.tj.gov.cn/index.html
+1537157978057	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://kafw.tj.gov.cn/port/index.do?method=Home
+1537157978440	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://kafw.tj.gov.cn/port/index.do?method=Home
+1537157978709	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://kafw.tj.gov.cn/port/index.do?method=Home
+1537157978848	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://kafw.tj.gov.cn/port/index.do?method=Home
+1537157978849	Marionette	DEBUG	[6442450945] Received DOM event unload for http://kafw.tj.gov.cn/port/index.do?method=Home
+1537157979410	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://jy.tj.gov.cn/
+1537157981645	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://jy.tj.gov.cn/
+1537157981840	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://jy.tj.gov.cn/
+1537157981864	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://jy.tj.gov.cn/
+1537157982102	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://scjg.tj.gov.cn/
+1537157982411	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://scjg.tj.gov.cn/
+1537157982672	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://scjg.tj.gov.cn/
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+JavaScript warning: http://js.t.sinajs.cn/open/api/js/widget/iframeWidget/iframeWidget.js?version=20140327, line 1: unreachable code after return statement
+1537157982879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://scjg.tj.gov.cn/
+1537157982880	Marionette	DEBUG	[6442450945] Received DOM event unload for http://scjg.tj.gov.cn/
+JavaScript warning: http://103.244.165.187/static/third/jquery/jquery.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537157983015	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://103.244.165.187/
+1537157983020	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451068
+1537157983021	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451071
+1537157983021	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451066
+1537157983128	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://103.244.165.187/
+1537157983376	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://103.244.165.187/
+1537157983948	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://103.244.165.187/
+1537157984287	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://xf.tj.gov.cn/
+1537157985240	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://xf.tj.gov.cn/
+1537157985659	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://xf.tj.gov.cn/
+1537157985693	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://xf.tj.gov.cn/
+1537157985693	Marionette	DEBUG	[6442450945] Received DOM event unload for http://xf.tj.gov.cn/
+1537157985729	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451063
+1537157985752	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tj12380.gov.cn/
+1537157985954	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tj12380.gov.cn/
+1537157986351	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tj12380.gov.cn/
+1537157986373	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tj12380.gov.cn/
+1537157986379	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.china-tjftz.cn/
+1537157986381	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.china-tjftz.cn/
+1537157986390	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.china-tjftz.cn/
+1537157986402	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.china-tjftz.cn/
+JavaScript warning: http://www.china-tjftz.gov.cn/mailbox/BHXQZWW/js/jquery.1.3.2.js, line 19: unreachable code after return statement
+1537157986834	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.china-tjftz.gov.cn/html/cntjzymyqn/portal/index/index.htm
+JavaScript error: http://www.china-tjftz.gov.cn/html/cntjzymyqn/portal/index/index.htm, line 1: ReferenceError: getAjaxReturn is not defined
+1537157987123	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.china-tjftz.gov.cn/html/cntjzymyqn/portal/index/index.htm
+1537157987359	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.china-tjftz.gov.cn/html/cntjzymyqn/portal/index/index.htm
+1537157987384	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.china-tjftz.gov.cn/html/cntjzymyqn/portal/index/index.htm
+1537157987385	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.china-tjftz.gov.cn/html/cntjzymyqn/portal/index/index.htm
+1537157987531	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.singlewindow.tj.cn/
+1537157987541	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451078
+1537157987541	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451079
+1537157987541	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451080
+1537157987951	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451099
+1537157988329	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.singlewindow.tj.cn/
+1537157988542	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.singlewindow.tj.cn/
+1537157988563	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.singlewindow.tj.cn/
+1537157988564	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.singlewindow.tj.cn/
+1537157988568	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.bhscjgj.gov.cn/
+1537157988570	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.bhscjgj.gov.cn/
+1537157988579	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.bhscjgj.gov.cn/
+1537157988581	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451087
+1537157988582	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451088
+1537157988582	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451089
+1537157988582	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451090
+1537157988583	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451091
+1537157988597	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.bhscjgj.gov.cn/
+1537157988604	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://tjdnserror3.wo.com.cn:8080/?HOST=www.bhscjgj.gov.cn&R=/&
+1537157988622	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://tjdnserror3.wo.com.cn:8080/?HOST=www.bhscjgj.gov.cn&R=/&
+1537157988627	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://tjdnserror3.wo.com.cn:8080/?HOST=www.bhscjgj.gov.cn&R=/&
+1537157988645	Marionette	DEBUG	[6442450945] Received DOM event unload for http://tjdnserror3.wo.com.cn:8080/?HOST=www.bhscjgj.gov.cn&R=/&
+JavaScript warning: http://cdn.bootcss.com/jquery/1.9.0/jquery.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537157991806	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451105
+1537157991818	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451106
+1537157992456	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://tjdnserror3.wo.com.cn:8080/issueunziped/dns2016041802/index.html?sf=&UserUrl=www.bhscjgj.gov.cn
+1537158013046	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://tjdnserror3.wo.com.cn:8080/issueunziped/dns2016041802/index.html?sf=&UserUrl=www.bhscjgj.gov.cn
+1537158013443	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://tjdnserror3.wo.com.cn:8080/issueunziped/dns2016041802/index.html?sf=&UserUrl=www.bhscjgj.gov.cn
+1537158013634	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://tjdnserror3.wo.com.cn:8080/issueunziped/dns2016041802/index.html?sf=&UserUrl=www.bhscjgj.gov.cn
+1537158013637	Marionette	DEBUG	[6442450945] Received DOM event unload for http://tjdnserror3.wo.com.cn:8080/issueunziped/dns2016041802/index.html?sf=&UserUrl=www.bhscjgj.gov.cn
+1537158013682	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451144
+1537158013683	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451110
+1537158013683	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451125
+1537158013684	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451124
+1537158013684	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451123
+1537158013684	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451113
+1537158013685	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451111
+1537158013686	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451112
+1537158013686	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451120
+1537158013686	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451116
+1537158013687	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451129
+1537158013687	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451133
+1537158013687	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451136
+1537158013688	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451140
+JavaScript warning: http://www.tjcredit.gov.cn/gsxt/static/js/jquery/jquery.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537158014030	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjcredit.gov.cn/gsxt/
+1537158014368	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjcredit.gov.cn/gsxt/
+1537158014518	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjcredit.gov.cn/gsxt/
+1537158014544	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjcredit.gov.cn/gsxt/
+1537158014544	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjcredit.gov.cn/gsxt/
+1537158014549	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://60.29.188.213:9797/possession
+1537158014555	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://60.29.188.213:9797/possession
+1537158014556	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://60.29.188.213:9797/possession
+1537158014593	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://60.29.188.213:9797/possession
+1537158014979	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://60.29.188.213:9797/possession
+1537158014979	Marionette	DEBUG	[6442450945] Received DOM event unload for http://60.29.188.213:9797/possession
+1537158016224	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://tianjin.12388.gov.cn/
+1537158023188	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://tianjin.12388.gov.cn/
+1537158023275	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://tianjin.12388.gov.cn/
+1537158023372	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://tianjin.12388.gov.cn/
+1537158023710	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://sww.tj.gov.cn/
+1537158023745	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://sww.tj.gov.cn/
+1537158023886	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://sww.tj.gov.cn/
+1537158024070	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://sww.tj.gov.cn/
+1537158024070	Marionette	DEBUG	[6442450945] Received DOM event unload for http://sww.tj.gov.cn/
+1537158024254	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjxzxk.gov.cn/
+1537158025143	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjxzxk.gov.cn/
+1537158025380	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjxzxk.gov.cn/
+1537158025463	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjxzxk.gov.cn/
+JavaScript error: http://www.hebut.edu.cn/, line 286: TypeError: document.getElementById(...) is null
+JavaScript error: http://www.hebut.edu.cn/, line 874: ReferenceError: tab is not defined
+1537158025804	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.hebut.edu.cn/
+1537158027139	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.hebut.edu.cn/
+1537158027502	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.hebut.edu.cn/
+1537158027532	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.hebut.edu.cn/
+1537158027864	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451151
+1537158027867	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.nankai.edu.cn/
+1537158048976	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.nankai.edu.cn/
+1537158049119	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.nankai.edu.cn/
+1537158049156	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.nankai.edu.cn/
+JavaScript error: http://www.tjufe.edu.cn/js/frankie-correctpng.js, line 30: TypeError: window.attachEvent is not a function
+1537158049415	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjufe.edu.cn/
+1537158049589	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjufe.edu.cn/
+1537158049917	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjufe.edu.cn/
+1537158050045	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjufe.edu.cn/
+1537158050051	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tcu.edu.cn/
+1537158050062	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tcu.edu.cn/
+1537158050133	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tcu.edu.cn/
+1537158050230	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tcu.edu.cn/
+1537158050231	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tcu.edu.cn/
+1537158050689	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tju.edu.cn/
+JavaScript error: http://www.tju.edu.cn/, line 295: TypeError: version[1] is undefined
+1537158052202	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tju.edu.cn/
+1537158052598	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tju.edu.cn/
+1537158052678	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tju.edu.cn/
+1537158052682	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tju.edu.cn/
+1537158053083	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451161
+1537158053550	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://kj.tju.edu.cn/
+1537158053779	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://kj.tju.edu.cn/
+1537158054346	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://kj.tju.edu.cn/
+1537158054388	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://kj.tju.edu.cn/
+1537158054389	Marionette	DEBUG	[6442450945] Received DOM event unload for http://kj.tju.edu.cn/
+1537158054522	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjpu.edu.cn/
+1537158054525	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjpu.edu.cn/
+1537158054527	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjpu.edu.cn/
+1537158054531	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451164
+1537158054548	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjpu.edu.cn/
+1537158054635	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjpu.edu.cn/
+1537158055075	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjpu.edu.cn/
+1537158055271	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjpu.edu.cn/
+1537158055407	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjpu.edu.cn/
+1537158055637	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tust.edu.cn/
+1537158058486	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tust.edu.cn/
+1537158058808	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tust.edu.cn/
+1537158058937	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tust.edu.cn/
+1537158058938	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tust.edu.cn/
+1537158058947	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjutcm.edu.cn/
+1537158058950	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjutcm.edu.cn/
+1537158058963	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjutcm.edu.cn/
+1537158058967	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451175
+1537158058967	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451176
+1537158058967	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451177
+1537158059117	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjutcm.edu.cn/
+JavaScript warning: http://news13.tjutcm.edu.cn/js/jquery-1.9.0.min.js, line 3: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537158059651	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://news13.tjutcm.edu.cn/c2015.htm
+1537158062411	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://news13.tjutcm.edu.cn/c2015.htm
+1537158062852	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://news13.tjutcm.edu.cn/c2015.htm
+1537158062884	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://news13.tjutcm.edu.cn/c2015.htm
+1537158062884	Marionette	DEBUG	[6442450945] Received DOM event unload for http://news13.tjutcm.edu.cn/c2015.htm
+1537158063082	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451184
+1537158063158	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjtc.edu.cn/
+1537158063616	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjtc.edu.cn/
+1537158063834	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjtc.edu.cn/
+1537158064231	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjtc.edu.cn/
+1537158064231	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.tjtc.edu.cn/
+1537158064598	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451187
+1537158064599	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451189
+1537158064599	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451168
+1537158064599	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451169
+1537158065533	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://bbs.tju.edu.cn/
+1537158066212	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://bbs.tju.edu.cn/passport/login
+1537158066452	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://bbs.tju.edu.cn/passport/login
+1537158066991	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://bbs.tju.edu.cn/passport/login
+1537158066992	Marionette	DEBUG	[6442450945] Received DOM event unload for https://bbs.tju.edu.cn/passport/login
+1537158066997	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://weixin.tedapower.com/
+1537158066998	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://weixin.tedapower.com/
+1537158067008	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://weixin.tedapower.com/
+1537158067029	Marionette	DEBUG	[6442450945] Received DOM event unload for http://weixin.tedapower.com/
+1537158067033	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://weixin.tedapower.com/online/index.html
+1537158067034	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://weixin.tedapower.com/online/index.html
+1537158067042	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://weixin.tedapower.com/online/index.html
+1537158067070	Marionette	DEBUG	[6442450945] Received DOM event unload for http://weixin.tedapower.com/online/index.html
+1537158067293	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://weixin.tedapower.com/online/extend/navigate.jsp
+1537158067640	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://weixin.tedapower.com/online/extend/navigate.jsp
+1537158067833	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://weixin.tedapower.com/online/extend/navigate.jsp
+1537158067879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://weixin.tedapower.com/online/extend/navigate.jsp
+1537158067960	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.binhaigas.com:8088/
+1537158068068	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.binhaigas.com:8088/
+1537158068179	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.binhaigas.com:8088/
+1537158068261	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.binhaigas.com:8088/
+1537158068281	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://epaper.tianjinwe.com/tjrb/
+1537158068292	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://epaper.tianjinwe.com/tjrb/
+1537158068321	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://epaper.tianjinwe.com/tjrb/
+1537158068352	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://epaper.tianjinwe.com/tjrb/
+1537158068352	Marionette	DEBUG	[6442450945] Received DOM event unload for http://epaper.tianjinwe.com/tjrb/
+1537158068364	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://bb.tjtc.edu.cn/
+1537158068367	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://bb.tjtc.edu.cn/
+1537158068396	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://bb.tjtc.edu.cn/
+1537158068483	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://bb.tjtc.edu.cn/
+1537158068484	Marionette	DEBUG	[6442450945] Received DOM event unload for http://bb.tjtc.edu.cn/
+1537158069159	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451195
+1537158069161	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjcu.edu.cn/
+1537158077008	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjcu.edu.cn/
+1537158077177	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjcu.edu.cn/
+1537158077300	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjcu.edu.cn/
+1537158077310	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://bbs.nankai.edu.cn/
+1537158077315	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://bbs.nankai.edu.cn/
+1537158077359	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://bbs.nankai.edu.cn/
+1537158077621	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://bbs.nankai.edu.cn/
+JavaScript error: http://www.boustead.edu.cn/, line 599: ReferenceError: img1 is not defined
+1537158078103	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.boustead.edu.cn/
+1537158079157	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.boustead.edu.cn/
+1537158079387	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.boustead.edu.cn/
+1537158079428	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.boustead.edu.cn/
+1537158079429	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.boustead.edu.cn/
+JavaScript warning: http://www.bddhospital.com/js/jquery-2.1.4.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537158079581	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451203
+1537158079600	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.bddhospital.com/
+1537158080501	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.bddhospital.com/
+1537158080795	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.bddhospital.com/
+1537158081228	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.bddhospital.com/
+1537158081230	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.bddhospital.com/
+1537158082328	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.bhzq.com/
+1537158082618	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.bhzq.com/
+1537158083064	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.bhzq.com/
+1537158083194	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.bhzq.com/
+1537158083195	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.bhzq.com/
+1537158083395	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451207
+1537158083396	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451209
+1537158083568	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tute.edu.cn/
+1537158085846	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tute.edu.cn/
+1537158086190	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tute.edu.cn/
+1537158086301	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tute.edu.cn/
+JavaScript warning: http://www.mzms.net/404/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1537158086545	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.mzms.net/
+1537158086554	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.mzms.net/
+1537158086578	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.mzms.net/
+JavaScript error: http://www.mzms.net/404/404.js?id=2018-9-17%2012:21:28, line 1: SyntaxError: expected expression, got ')'
+1537158086615	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.mzms.net/
+1537158086615	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.mzms.net/
+JavaScript error: http://www.tjbh.com/, line 1221: ReferenceError: $ is not defined
+1537158087145	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjbh.com/
+1537158087709	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjbh.com/
+1537158087867	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjbh.com/
+1537158088041	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjbh.com/
+1537158088072	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.cauc.edu.cn/zh/
+JavaScript error: http://www.cauc.edu.cn/zh/block2.html, line 207: TypeError: $(...) is null
+1537158089137	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.cauc.edu.cn/zh/
+1537158089358	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.cauc.edu.cn/zh/
+1537158089400	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.cauc.edu.cn/zh/
+JavaScript warning: http://www.ewww.com.cn/assets/js/jquery-1.10.2.min.js?_bz=1311270622, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.ewww.com.cn/, line 267: SyntaxError: illegal character
+1537158089650	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ewww.com.cn/
+1537158089977	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ewww.com.cn/
+1537158090253	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.ewww.com.cn/
+1537158090288	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.ewww.com.cn/
+JavaScript error: http://www.tjrtvu.edu.cn/, line 290: TypeError: this.Img.filters is undefined
+1537158091820	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjrtvu.edu.cn/
+1537158093869	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjrtvu.edu.cn/
+1537158094035	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjrtvu.edu.cn/
+1537158094177	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjrtvu.edu.cn/
+JavaScript warning: http://www.tjnu.edu.cn/dfiles/4003/office/tjnu/skin/one/js/jquery.js, line 3671: unreachable code after return statement
+1537158094864	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjnu.edu.cn/
+JavaScript error: http://www.tjnu.edu.cn/, line 205: TypeError: oDiv is null
+1537158095394	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjnu.edu.cn/
+1537158095580	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjnu.edu.cn/
+1537158095832	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjnu.edu.cn/
+1537158096216	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451218
+1537158096217	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451219
+1537158096217	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451220
+1537158096219	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451221
+1537158096219	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451222
+1537158096227	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451244
+1537158096227	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451223
+1537158096228	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451224
+1537158096229	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451246
+1537158096231	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451225
+1537158096231	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451248
+1537158096231	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451226
+1537158096232	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451227
+1537158096232	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451228
+1537158096232	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451229
+1537158096233	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451230
+1537158096233	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451216
+1537158096593	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjotc.cn/
+1537158099197	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjotc.cn/
+1537158099438	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjotc.cn/
+1537158099572	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjotc.cn/
+1537158100674	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tmu.edu.cn/
+1537158101104	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tmu.edu.cn/
+1537158101265	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tmu.edu.cn/
+1537158101376	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tmu.edu.cn/
+1537158101530	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451252
+1537158101586	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjut.edu.cn/
+1537158104477	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjut.edu.cn/
+1537158104809	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjut.edu.cn/
+1537158104896	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjut.edu.cn/
+1537158105292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjfsu.edu.cn/
+1537158105565	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjfsu.edu.cn/
+1537158105830	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjfsu.edu.cn/
+1537158105894	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjfsu.edu.cn/
+JavaScript error: http://www.ccpittj.org/js/jquery.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.ccpittj.org/js/base.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.ccpittj.org/js/zlunbo.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: http://www.ccpittj.org/js/jquery.slideBox.js, line 1: SyntaxError: expected expression, got '<'
+1537158106298	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.ccpittj.org/
+1537158106300	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ccpittj.org/
+1537158106321	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ccpittj.org/
+1537158106664	Marionette	DEBUG	[6442450945] Received DOM event unload for http://www.ccpittj.org/
+1537158107498	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.ccpittj.org/cn/
+1537158109032	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.ccpittj.org/cn/
+1537158109282	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.ccpittj.org/cn/
+1537158109475	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.ccpittj.org/cn/
+1537158109639	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451257
+1537158109879	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.tjbhxzsp.gov.cn/index.do
+1537158109885	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.tjbhxzsp.gov.cn/index.do
+1537158110250	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for http://www.tjbhxzsp.gov.cn/index.do
+1537158110280	Marionette	DEBUG	[6442450945] Received DOM event pagehide for http://www.tjbhxzsp.gov.cn/index.do
+JavaScript warning: http://www.jwb.com.cn/images/jwwsy2015_jquery.js, line 19: unreachable code after return statement
+JavaScript error: http://www.jwb.com.cn/, line 33: ReferenceError: sina is not defined
+1537158110666	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451260
+1537158110667	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451261
+1537158110668	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451262
+1537158110669	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442451263
+JavaScript warning: http://www.jwb.com.cn/images/jquery.min.js, line 19: unreachable code after return statement
+1537158110723	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.jwb.com.cn/
+1537158111624	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.jwb.com.cn/
+1537158111884	Marionette	INFO	Stopped listening on port 63369
+[Parent 17344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19052[Parent 17344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12488, Chrome_Child[GPU 140
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
