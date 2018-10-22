@@ -14,7 +14,7 @@
 <li>1.2、使用getopt命令行输入
 <li>1.3、使用xlwings读写Excel
 <li>1.4、使用win32com进行Word批量替换
-<h2>使用方法</h2>
+<h1>使用方法</h1>
 <p>python XQZG-Template.py -h 
 <p>安装所需要的库
 
