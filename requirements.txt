@@ -3,7 +3,7 @@ chardet==3.0.4
 comtypes==1.1.6
 idna==2.7
 pyttsx==1.1
-pywin32==223
+pywin32==301
 requests==2.19.1
 requests-file==1.4.3
 selenium==3.14.0
